@@ -2,3 +2,12 @@
 
 
 ## Doctor in Forest Engineering and Data Science Enthusiast
+
+**Background in:** (UNDER CONSTRUCTION)
+
+**Links:** (UNDER CONSTRUCTION)
+
+* [LinkedIn](https://www.linkedin.com/in/thiagosouzadarosa/)
+
+
+## Projects: (UNDER CONSTRUCTION)
