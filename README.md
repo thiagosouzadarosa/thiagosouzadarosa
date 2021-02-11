@@ -7,9 +7,7 @@
 > ## <a href="https://www.linkedin.com/in/thiagosouzadarosa/">About Me</a>
 
 
-
-
-## Data Science Enthusiast and Doctor in Forest Engineering
+Testing......
 
 
 
@@ -20,4 +18,4 @@
 * [LinkedIn](https://www.linkedin.com/in/thiagosouzadarosa/)
 
 
-## Projects: (UNDER CONSTRUCTION)
+## Projects: (em construção)
