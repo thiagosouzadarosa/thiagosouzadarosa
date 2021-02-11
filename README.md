@@ -11,9 +11,9 @@ Testing......
 
 
 
-**Background in:** (UNDER CONSTRUCTION)
+**Background in:** (em construção)
 
-**Contact Me:** (UNDER CONSTRUCTION)
+**Contact Me:** (em construção)
 
 * [LinkedIn](https://www.linkedin.com/in/thiagosouzadarosa/)
 * [E-mail](thiagosouzadarosa@gmail.com)
