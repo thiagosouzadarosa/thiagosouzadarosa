@@ -16,6 +16,9 @@ Testing......
 **Contact Me:** (UNDER CONSTRUCTION)
 
 * [LinkedIn](https://www.linkedin.com/in/thiagosouzadarosa/)
+* [E-mail](thiagosouzadarosa@gmail.com)
+* [Instagram](https://www.instagram.com/thiagos.rosa/)
+
 
 
 ## Projects: (em construção)
