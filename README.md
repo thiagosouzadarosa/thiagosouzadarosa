@@ -4,14 +4,14 @@
   <img src="bannerTSR2.png" >
 </p>
 
-# <a href="https://www.linkedin.com/in/thiagosouzadarosa/">Thiago Souza da Rosa</a>
-
-> ## About Me
+> ## <a href="https://www.linkedin.com/in/thiagosouzadarosa/">About Me</a>
 
 
 
 
 ## Data Science Enthusiast and Doctor in Forest Engineering
+
+
 
 **Background in:** (UNDER CONSTRUCTION)
 
