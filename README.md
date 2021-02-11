@@ -1,11 +1,17 @@
 [![author](https://img.shields.io/badge/author-thiagosouzadarosa-brightgreen.svg)](https://www.linkedin.com/in/thiagosouzadarosa) [![](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/release/python-391/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-purple.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-red.svg?style=flat)](https://github.com/thiagosouzadarosa/Portifolio)
 
+# <a href="https://www.linkedin.com/in/thiagosouzadarosa/">Thiago Souza da Rosa</a>
 
-## Doctor in Forest Engineering and Data Science Enthusiast
+> ## About Me
+
+
+
+
+## Data Science Enthusiast and Doctor in Forest Engineering
 
 **Background in:** (UNDER CONSTRUCTION)
 
-**Links:** (UNDER CONSTRUCTION)
+**Contact Me:** (UNDER CONSTRUCTION)
 
 * [LinkedIn](https://www.linkedin.com/in/thiagosouzadarosa/)
 
