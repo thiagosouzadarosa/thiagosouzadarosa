@@ -6,6 +6,8 @@
 
 > ## <a href="https://www.linkedin.com/in/thiagosouzadarosa/">About Me</a>
 
+%%html
+<marquee style='width: 30%; color: blue;'><b>Welcome!</b></marquee>
 
 Testing......
 
