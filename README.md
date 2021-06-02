@@ -4,18 +4,17 @@
   <img src="bannerTSR2.png" >
 </p>
 
-> ## <a href="https://www.linkedin.com/in/thiagosouzadarosa/">About Me</a>
+> ## <a href="https://www.linkedin.com/in/thiagosouzadarosa/">Sobre mim</a>
 
-%%html
 <marquee style='width: 30%; color: blue;'><b>Welcome!</b></marquee>
 
 Testing......
 
 
 
-**Background in:** (em construção)
+**Background em:** (em construção)
 
-**Contact Me:** (em construção)
+**Contate-me:** 
 
 * [LinkedIn](https://www.linkedin.com/in/thiagosouzadarosa/)
 * [E-mail](thiagosouzadarosa@gmail.com)
@@ -23,4 +22,4 @@ Testing......
 
 
 
-## Projects: (em construção)
+## Projetos: (em construção)
