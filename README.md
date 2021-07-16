@@ -12,14 +12,17 @@ Testing......
 
 
 
-**Background em:** (em construção)
+**Background em:**
+
 
 **Contate-me:** 
 
 * [LinkedIn](https://www.linkedin.com/in/thiagosouzadarosa/)
 * [E-mail](thiagosouzadarosa@gmail.com)
-* [Instagram](https://www.instagram.com/thiagos.rosa/)
 
 
 
-## Projetos: (em construção)
+
+## Projetos:
+
+* [Análise Exploratória dos Dados (EDA) do Airbnb - Rio de Janeiro](https://github.com/thiagosouzadarosa/Projects/blob/main/An%C3%A1lise_Explorat%C3%B3ria_dos_Dados_do_Airbnb(Rio_de_Janeiro).ipynb)
