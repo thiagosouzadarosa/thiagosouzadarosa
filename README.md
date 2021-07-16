@@ -33,6 +33,7 @@ Testing......
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" >
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     
    
 </p>
@@ -46,11 +47,11 @@ Testing......
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="thiagosouzadarosa@gmail.com">
-        <img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-1-1.png=white&link=mailto:thiagosouzadarosa@gmail.com">
+        <img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-1-1.png=mailto:thiagosouzadarosa@gmail.com">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/thiagosouzadarosa">
-        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg">
+        <img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg">
     </a>
 </p>
 
@@ -60,6 +61,8 @@ Testing......
 
 * [Análise Exploratória dos Dados (EDA) do Airbnb - Rio de Janeiro](https://github.com/thiagosouzadarosa/Projects/blob/main/An%C3%A1lise_Explorat%C3%B3ria_dos_Dados_do_Airbnb(Rio_de_Janeiro).ipynb)
 
+</br>
+</br>
 
 ## Estatísticas :detective: <br>
 <p align="center">
