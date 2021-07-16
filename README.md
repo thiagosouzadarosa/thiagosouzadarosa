@@ -42,15 +42,15 @@ Testing......
 
 <p align="center">
     <a href="https://github.com/thiagosouzadarosa">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/teteusAraujo">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/thiagosouzadarosa">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="thiagosouzadarosa@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mateusaraujo996@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:thiagosouzadarosa@gmail.com">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/mateusaraujobarros">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/thiagosouzadarosa/">
+    <a href="https://www.linkedin.com/in/thiagosouzadarosa">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg">
     </a>
 </p>
 
@@ -60,6 +60,8 @@ Testing......
 
 * [Análise Exploratória dos Dados (EDA) do Airbnb - Rio de Janeiro](https://github.com/thiagosouzadarosa/Projects/blob/main/An%C3%A1lise_Explorat%C3%B3ria_dos_Dados_do_Airbnb(Rio_de_Janeiro).ipynb)
 
+
+## Estatísticas :detective: <br>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
