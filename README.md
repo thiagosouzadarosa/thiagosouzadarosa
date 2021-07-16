@@ -4,7 +4,7 @@
   <img src="bannerTSR2.png" >
 </p>
 
-> ## Sobre mim
+## Sobre mim
 
 <marquee style='width: 30%; color: blue;'><b>Welcome!</b></marquee>
 
