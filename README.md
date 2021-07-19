@@ -6,7 +6,13 @@
 
 ## About me
 
-Data Scientist and Researcher...
+Data Scientist and Researcher.
+
+As a Data Scientist, I combine analytical skills and scientific methods acquire during the years as a researcher, to develop whatever business solutions are data-based.
+
+As a Researcher, I have spent the last years studying ways to develop new forest/wood-based products, as well as solve problems about the alternative destination to waste. During this journey, I have developed a critical thinking and problem-solving skills.
+
+My credentials include a Doctor of Science in Forest Engineering from the Federal University of Paraná (UFPR), considered a course of excellence, it occupies the 1<sup>st</sup> place in the ranking of Forestry Engineering in Brazil, and also a Master of Science in Forest Engineering from the same institution. 
 
 </br>
 </br>
