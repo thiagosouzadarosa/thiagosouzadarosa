@@ -1,17 +1,17 @@
-## Bem-vindo! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Welcome! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <p align="center">
   <img src="bannerTSR2.png" >
 </p>
 
-## Sobre mim
+## About me
 
-Cientista de dados... 
+Data Scientist and Researcher...
 
 </br>
 </br>
 
-## Tecnologias :computer:
+## Technologies :computer:
 <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -40,7 +40,7 @@ Cientista de dados...
 <br/>
 <br/>
 
-## Contate-me :iphone:
+## Contact me :iphone:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thiagosouzadarosa">
@@ -60,14 +60,14 @@ Cientista de dados...
 </br>
 </br>
 
-## Projetos :briefcase:
+## Projects [pt-br] :briefcase:
 
 * [Análise Exploratória dos Dados (EDA) do Airbnb - Rio de Janeiro](https://github.com/thiagosouzadarosa/Projects/blob/main/An%C3%A1lise_Explorat%C3%B3ria_dos_Dados_do_Airbnb(Rio_de_Janeiro).ipynb)
 
 </br>
 </br>
 
-## Estatísticas do perfil :chart_with_upwards_trend: <br>
+## Profile statistics :chart_with_upwards_trend: <br>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
@@ -89,7 +89,7 @@ Cientista de dados...
 </br>
 </br>
   
- ## Total de Visitas no perfil :detective: <br>
+ ## Profile Views :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/thiagosouzadarosa/count.svg" />
  </p>
