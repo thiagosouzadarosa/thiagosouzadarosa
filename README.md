@@ -35,7 +35,7 @@ Data Scientist and Researcher...
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-## Skills :nerd_face:
+<!--## Skills :nerd_face:-->
 
 <br/>
 <br/>
