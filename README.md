@@ -17,9 +17,9 @@ My credentials include a Doctor of Science in Forest Engineering from the Federa
 </br>
 </br>
 
-## [Projects [pt-br]](https://github.com/thiagosouzadarosa/Projects/blob/main/README.md):briefcase:
+## [Data Science Projects](https://github.com/thiagosouzadarosa/Projects/blob/main/README.md):briefcase:
 
-* [Análise Exploratória dos Dados (EDA) do Airbnb - Rio de Janeiro](https://github.com/thiagosouzadarosa/Projects/blob/main/An%C3%A1lise_Explorat%C3%B3ria_dos_Dados_do_Airbnb(Rio_de_Janeiro).ipynb)
+* [Análise Exploratória dos Dados (EDA) do Airbnb - Rio de Janeiro  [pt-br]](https://github.com/thiagosouzadarosa/Projects/blob/main/An%C3%A1lise_Explorat%C3%B3ria_dos_Dados_do_Airbnb(Rio_de_Janeiro).ipynb)
 
 </br>
 </br>
