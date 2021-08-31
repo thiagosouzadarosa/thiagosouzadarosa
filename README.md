@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="bannerTSR2.png" >
+  <img src=https://raw.githubusercontent.com/thiagosouzadarosa/thiagosouzadarosa/master/Graph-and-bar-and-red-point-anim.gif>
 </p>
 
 ## About me
