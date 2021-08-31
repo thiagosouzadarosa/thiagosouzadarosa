@@ -1,8 +1,8 @@
 ## Welcome! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <p align="center">
-  <img src="bannerTSR2.png" widht=300>
-  <img src="Graph-and-bar-and-red-point-anim.gif" widht=300>
+  <img src="bannerTSR2.png" widht=300px>
+  <img src="Graph-and-bar-and-red-point-anim.gif" widht=300px>
 </p>
 
 ## About me
