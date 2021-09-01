@@ -1,7 +1,7 @@
 ## Welcome! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <p align="center">
-  <img src="name4.png" width=460px/><img src="chart-cort.gif" width=400px/>
+  <img src="name4.png" width=460px/><img src="chart-cort.gif" width=390px/>
 </p>
 
 ## About me
