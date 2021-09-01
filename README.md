@@ -1,7 +1,7 @@
 ## Welcome! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <p align="center">
-  <img src="banner2.png" width=500px>
+  <img src="Name.png" width=500px>
   <img src="Infographic-compressed.gif" width=500px>
 </p>
 
