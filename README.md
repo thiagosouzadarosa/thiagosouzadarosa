@@ -91,7 +91,7 @@ Currently looking for opportunities in any data-related sectors.
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=thiagosouzadarosa&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=prussian"
+      src="https://github-readme-stats.vercel.app/api?username=thiagosouzadarosa&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=default"
     />
   </a>
 </p
