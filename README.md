@@ -6,16 +6,17 @@
 
 ## Sobre mim
 
+Olá, seja bem-vindo ao meu perfil!
 
-I combine analytical skills and scientific methods acquire during the years as a researcher, to develop whatever business solutions are data-based.
+Atualmente busco oportunidades na área de ciência de dados, onde costumo lançar mão de habilidades analíticas e métodos científicos adquiridos ao longo dos anos como pesquisador, para desenvolver quaisquer soluções de negócios baseadas em dados.
 
-As a Researcher, I have spent the last years studying ways to develop new forest/wood-based products, as well as solve problems about the alternative destination to waste. During this journey, I have developed a critical thinking and problem-solving skills.
+Como pesquisador, sempre trabalhei com análise de dados. Possuo artigos publicados em revistas científicas, onde a estatística como ferramenta para tomada de decisão e confirmação de hipóteses sempre foi fundamental. 
 
-My credentials include a Doctor of Science in Forest Engineering from the Federal University of Paraná (UFPR), considered a course of excellence, it occupies the 1<sup>st</sup> place in the ranking of Forestry Engineering in Brazil, and also a Master of Science in Forest Engineering from the same institution. 
+Em parte do meu doutorado, trabalhei com análise multivariada e desenvolvi modelos de redes neurais artificiais utilizando MatLab , o que contribuiu para a resolução de um problema industrial de destinação de resíduo.
 
-I've been constantly learning and improving my skills.
+Tenho estudado constantemente conteúdos voltados à ciência de dados utilizando as ferramentas Python (Pandas, Numpy, Matplotlib, Seaborn, Sklearn), SQL (MySQL, SQLite, SQLAlchemy), Power BI, Git.
 
-Currently looking for opportunities in any data-related sectors.
+Meu portifólio está em construção e pode ser visualizado no repositório abaixo.
 
 </br>
 </br>
