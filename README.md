@@ -1,10 +1,10 @@
-## Welcome! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Bem-vindo! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <p align="center">
   <img src="name4.png" width="410"/><img src="chart-cort.gif" width="410"/>
 </p>
 
-## About me
+## Sobre mim
 
 
 I combine analytical skills and scientific methods acquire during the years as a researcher, to develop whatever business solutions are data-based.
@@ -20,7 +20,7 @@ Currently looking for opportunities in any data-related sectors.
 </br>
 </br>
 
-## [Data Science Projects](https://github.com/thiagosouzadarosa/Projects/blob/main/README.md):briefcase:
+## [Projetos de Ciência e Análise de Dados](https://github.com/thiagosouzadarosa/Projects/blob/main/README.md) :briefcase:
 
 * [Desafio Análise de Dados do Enem e IDHM](https://github.com/thiagosouzadarosa/Portfolio/blob/main/Desafio_An%C3%A1lise_de_Dados_do_ENEM_e_IDH.ipynb)
 * [Análise Exploratória dos Dados (EDA) do Airbnb - Rio de Janeiro](https://github.com/thiagosouzadarosa/Projects/blob/main/An%C3%A1lise_Explorat%C3%B3ria_dos_Dados_do_Airbnb(Rio_de_Janeiro).ipynb)
@@ -29,7 +29,7 @@ Currently looking for opportunities in any data-related sectors.
 </br>
 </br>
 
-## Technologies :computer:
+## Tecnologias :computer:
 <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -58,7 +58,7 @@ Currently looking for opportunities in any data-related sectors.
 <br/>
 <br/>
 
-## Contact me :iphone:
+## Entre em contato comigo :iphone:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thiagosouzadarosa">
@@ -79,7 +79,7 @@ Currently looking for opportunities in any data-related sectors.
 </br>
 </br>
 
-## Profile statistics :chart_with_upwards_trend: <br>
+## Estatísticas do perfil :chart_with_upwards_trend: <br>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
@@ -101,7 +101,7 @@ Currently looking for opportunities in any data-related sectors.
 </br>
 </br>
   
- ## Profile Views :detective: <br>
+ ## Visualizações do perfil :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/thiagosouzadarosa/count.svg" />
  </p>
