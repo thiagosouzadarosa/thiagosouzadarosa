@@ -22,7 +22,9 @@ Currently looking for opportunities in any data-related sectors.
 
 ## [Data Science Projects](https://github.com/thiagosouzadarosa/Projects/blob/main/README.md):briefcase:
 
-* [Análise Exploratória dos Dados (EDA) do Airbnb - Rio de Janeiro  [pt-br]](https://github.com/thiagosouzadarosa/Projects/blob/main/An%C3%A1lise_Explorat%C3%B3ria_dos_Dados_do_Airbnb(Rio_de_Janeiro).ipynb)
+* [Desafio Análise de Dados do Enem e IDHM](https://github.com/thiagosouzadarosa/Portfolio/blob/main/Desafio_An%C3%A1lise_de_Dados_do_ENEM_e_IDH.ipynb)
+* [Análise Exploratória dos Dados (EDA) do Airbnb - Rio de Janeiro](https://github.com/thiagosouzadarosa/Projects/blob/main/An%C3%A1lise_Explorat%C3%B3ria_dos_Dados_do_Airbnb(Rio_de_Janeiro).ipynb)
+
 
 </br>
 </br>
