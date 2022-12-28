@@ -3,8 +3,8 @@
 <p align="center">
   <img src="name4.png" width="410"/><img src="chart-cort.gif" width="410"/>
 </p>
-<!--
-## Sobre mim
+
+<!--## Sobre mim
 
 Olá, seja bem-vindo ao meu perfil!
 
@@ -16,8 +16,8 @@ Em parte do meu doutorado, trabalhei com análise multivariada e desenvolvi mode
 
 Tenho estudado constantemente conteúdos voltados à ciência de dados utilizando as ferramentas Python (Pandas, Numpy, Matplotlib, Seaborn, Sklearn), SQL (MySQL, SQLite, SQLAlchemy), Power BI, Git.
 
-Meu portifólio está em construção e pode ser visualizado no repositório abaixo.
--->
+Meu portifólio está em construção e pode ser visualizado no repositório abaixo.-->
+
 </br>
 </br>
 
